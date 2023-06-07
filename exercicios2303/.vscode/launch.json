@@ -1,0 +1,218 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "name": "Python: Arquivo Atual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "codigose",
+            "request": "launch",
+            "mainClass": "codigose",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "codigoswitch",
+            "request": "launch",
+            "mainClass": "codigoswitch",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "distancia",
+            "request": "launch",
+            "mainClass": "distancia",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "divisao",
+            "request": "launch",
+            "mainClass": "divisao",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "ex3",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "ex4",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex5",
+            "request": "launch",
+            "mainClass": "ex5",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "ex6",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "extensoelse",
+            "request": "launch",
+            "mainClass": "extensoelse",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "extensosc",
+            "request": "launch",
+            "mainClass": "extensosc",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "horario",
+            "request": "launch",
+            "mainClass": "horario",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "igual_antecessor",
+            "request": "launch",
+            "mainClass": "igual_antecessor",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "intervalo",
+            "request": "launch",
+            "mainClass": "intervalo",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "lancheif",
+            "request": "launch",
+            "mainClass": "lancheif",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "lanchswitch",
+            "request": "launch",
+            "mainClass": "lanchswitch",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "mru",
+            "request": "launch",
+            "mainClass": "mru",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "operacaoif",
+            "request": "launch",
+            "mainClass": "operacaoif",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "operacaoswitch",
+            "request": "launch",
+            "mainClass": "operacaoswitch",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "par_impar",
+            "request": "launch",
+            "mainClass": "par_impar",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "peso",
+            "request": "launch",
+            "mainClass": "peso",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "somadosquadrados",
+            "request": "launch",
+            "mainClass": "somadosquadrados",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "subtracao",
+            "request": "launch",
+            "mainClass": "subtracao",
+            "projectName": "java-arquivos_49d36230"
+        },
+        {
+            "type": "java",
+            "name": "temperatura",
+            "request": "launch",
+            "mainClass": "temperatura",
+            "projectName": "java-arquivos_49d36230"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Carro [cor=Azul, ano=2023, modelo=Ferrari, motor=4.2, tetoSolar=true, turbo=true]
