@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+C:\Pedro\unisinos\algoritmos-e-programacao\AlgoritmosProgramacao\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-3989851870.index
-2444651437.index
-1865797976.index
